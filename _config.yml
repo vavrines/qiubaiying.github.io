@@ -1,7 +1,7 @@
 # Site settings
 title: 渉
 SEOTitle: 渉 | Vavrines Blog
-header-img: img/IMG_7403.JPG
+header-img: img/fall.JPEG
 email: tianbaixiao@gmail.com
 description: "Midori diary"
 keyword: "Vavrines, Tianbai Xiao, Photography, Art, Computational Fluid Dynamics, Fortran"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/vavrines/vavrines.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Tianbai Xiao"
-sidebar-avatar: img/fall.JPEG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/IMG_7403.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
