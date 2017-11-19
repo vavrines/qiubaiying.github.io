@@ -1,9 +1,5 @@
 # Site settings
 
-#ga_track_id: 'UA-109883246-1'     
-
-
-# Site settings
 title: 渉
 SEOTitle: 渉 | Vavrines Blog
 header-img: img/post-bg-desk.jpg
@@ -13,6 +9,8 @@ keyword: "Vavrines, Vavrines Blog, Tianbai Xiao, 肖天白, Photography, Art, CF
 url: "http://vavrines.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/vavrines/vavrines.github.io.git" # you code repository
+
+
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -29,7 +27,6 @@ github_username:    vavrines
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 twitter_username:   vavrines
-
 
 
 
@@ -71,7 +68,6 @@ disqus_username: vavrines
 
 
 
-
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: b50bf2b12b5338a1845e33832976fd68
@@ -79,8 +75,6 @@ disqus_username: vavrines
 # Google Analytics
 ga_track_id: 'UA-109883246-1'          # Format: UA-xxxxxx-xx
 ga_domain: auto
-
-
 
 
 
@@ -99,8 +93,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Tumblr·Vavrines",
+        href: "http://www.tumblr.com/vavrines"
     },{
         title: "Apple",
         href: "https://apple.com"
