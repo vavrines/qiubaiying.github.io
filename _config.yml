@@ -14,7 +14,7 @@ github_repo: "https://github.com/vavrines/vavrines.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Tianbai Xiao"
 sidebar-avatar: /img/self.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
