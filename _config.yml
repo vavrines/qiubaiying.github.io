@@ -93,13 +93,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Tumblr·Vavrines",
-        href: "http://vavrines.tumblr.com/"
+        title: "Lofter",
+        href: "http://vavrines.lofter.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com/"
+        title: "Fanfou",
+        href: "https://fanfou.com/belovedaphrodite/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Tumblr",
+        href: "https://vavrines.tumblr.com/"
+    },{
+        title: "Weibo",
+        href: "https://www.weibo.com/1764647054/profile?topnav=1&wvr=6&is_all=1"
     }
 ]
