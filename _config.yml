@@ -94,10 +94,10 @@ service-worker: true
 friends: [
     {
         title: "Tumblr·Vavrines",
-        href: "http://www.tumblr.com/vavrines"
+        href: "http://vavrines.tumblr.com/"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "https://apple.com/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
