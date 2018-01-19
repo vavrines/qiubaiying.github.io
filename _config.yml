@@ -91,7 +91,7 @@ service-worker: true
 
 
 # Friends
-links: [
+friends: [
     {
         title: "Tumblr·Vavrines",
         href: "http://vavrines.tumblr.com/"
