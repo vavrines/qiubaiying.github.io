@@ -21,7 +21,7 @@ sidebar-avatar: /img/self.jpg      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     vavrines
 #zhihu_username:     qiubaiying
 github_username:    vavrines
 #facebook_username:  baiying.qiu.7
@@ -90,7 +90,7 @@ service-worker: true
 
 
 
-# Friends
+# Links
 friends: [
     {
         title: "Lofter",
