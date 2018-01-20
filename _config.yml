@@ -58,7 +58,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+# disqus_username: vavrines
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -66,6 +66,15 @@ disqus_username: qiubaiying
 # Share component is depend on Comment so we can NOT use share only.
 # duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
+# Gitalk
+gitalk:
+enable: true    #是否开启Gitalk评论
+clientID: f2c84e7629bb1446c1a4   #生成的clientID
+clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d  #同上
+repo: qiubaiying.github.io    #仓库名称
+owner: qiubaiying    #github用户名
+admin: qiubaiying
+distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # Analytics settings
