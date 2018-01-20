@@ -23,7 +23,7 @@ sidebar-avatar: /img/self.jpg      # use absolute URL, seeing it's used in both 
 RSS: false
 weibo_username:     vavrines
 zhihu_username:     xiao-tian-bai
-github_username:    vavrines
+#github_username:    vavrines
 facebook_username:  tianbai.xiao
 #jianshu_username:   e71990ada2fd
 twitter_username:   vavrines
