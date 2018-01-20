@@ -11,23 +11,20 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/vavrines/vavrines.github.io.git" # you code repository
 
 
-
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Tianbai Xiao"
 sidebar-avatar: /img/self.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
-
 # SNS settings
 RSS: false
+facebook_username:  tianbai.xiao
+twitter_username:   vavrines
 weibo_username:     vavrines
 zhihu_username:     xiao-tian-bai
-#github_username:    vavrines
-facebook_username:  tianbai.xiao
+github_username:    vavrines
 #jianshu_username:   e71990ada2fd
-twitter_username:   vavrines
-
 
 
 # Build settings
@@ -38,11 +35,9 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
-
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
 
 
 # Markdown settings
@@ -53,7 +48,6 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
-
 
 
 # 评论系统
@@ -68,13 +62,13 @@ kramdown:
 
 # Gitalk
 gitalk:
-enable: true    #是否开启Gitalk评论
-clientID: 075e56b35b32648efab1  #生成的clientID
-clientSecret: 39f6a09cd19bdc30e611fcc8bdc95668ef7d68bd  #同上
-repo: vavrines.github.io    #仓库名称
-owner: vavrines    #github用户名
-admin: vavrines
-distractionFreeMode: true #是否启用类似FB的阴影遮罩
+    enable: true    #是否开启Gitalk评论
+    clientID: 075e56b35b32648efab1  #生成的clientID
+    clientSecret: 39f6a09cd19bdc30e611fcc8bdc95668ef7d68bd  #同上
+    repo: vavrines.github.io    #仓库名称
+    owner: vavrines    #github用户名
+    admin: vavrines
+    distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # Analytics settings
@@ -86,17 +80,14 @@ ga_track_id: 'UA-109883246-1'          # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
-
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
-
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
 
 
 # Links
