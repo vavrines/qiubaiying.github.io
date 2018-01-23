@@ -21,9 +21,9 @@ sidebar-avatar: /img/self.jpg      # use absolute URL, seeing it's used in both 
 RSS: false
 facebook_username:  tianbai.xiao
 twitter_username:   vavrines
-weibo_username:     vavrines
+#weibo_username:     vavrines
 zhihu_username:     xiao-tian-bai
-#github_username:    vavrines
+github_username:    vavrines
 #jianshu_username:   e71990ada2fd
 
 
@@ -98,6 +98,9 @@ friends: [
     },{
         title: "Fanfou",
         href: "https://fanfou.com/belovedaphrodite/"
+    },{
+        title: "ResearchGate",
+        href: "https://www.researchgate.net/profile/Tianbai_Xiao"
     },{
         title: "Tumblr",
         href: "https://vavrines.tumblr.com/"
