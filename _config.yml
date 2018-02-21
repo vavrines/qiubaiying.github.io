@@ -93,14 +93,17 @@ service-worker: true
 # Links
 friends: [
     {
+        title: "Homepage",
+        href: "https://sites.google.com/site/tianbaixiao/"
+    },{
+        title: "ResearchGate",
+        href: "https://www.researchgate.net/profile/Tianbai_Xiao"
+    },{
         title: "Lofter",
         href: "http://vavrines.lofter.com/"
     },{
         title: "Fanfou",
         href: "https://fanfou.com/belovedaphrodite/"
-    },{
-        title: "ResearchGate",
-        href: "https://www.researchgate.net/profile/Tianbai_Xiao"
     },{
         title: "Tumblr",
         href: "https://vavrines.tumblr.com/"
