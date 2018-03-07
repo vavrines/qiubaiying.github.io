@@ -93,9 +93,6 @@ service-worker: true
 # Links
 friends: [
     {
-        title: "Homepage",
-        href: "https://sites.google.com/site/tianbaixiao/"
-    },{
         title: "ResearchGate",
         href: "https://www.researchgate.net/profile/Tianbai_Xiao"
     },{
@@ -104,9 +101,6 @@ friends: [
     },{
         title: "Fanfou",
         href: "https://fanfou.com/belovedaphrodite/"
-    },{
-        title: "Tumblr",
-        href: "https://vavrines.tumblr.com/"
     },{
         title: "Weibo",
         href: "https://www.weibo.com/1764647054/profile?topnav=1&wvr=6&is_all=1"
